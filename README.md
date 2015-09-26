@@ -1,2 +1,2 @@
 # SampleCFwebapi
-Sample CloudFoundrt webapi with static html
+Sample CloudFoundry webapi with static html
